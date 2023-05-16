@@ -13,4 +13,4 @@ st.write("https://cdn.who.int/media/docs/default-source/country-profiles/cancer/
 st.write("file:///C:/Users/Maith/Downloads/CANCER%20INCIDENCE%20IN%20UNITED%20ARAB%20EMIRATES%20ANNUAL%20REPORT%20OF%20THE%20UAE%20-%202019.pdf")
 st.write("https://smartapps.moh.gov.ae/ords/f?p=105:511")
 
-st.markdown("By Ali Alharmoodi")
+st.markdown("By Ali Alharmoodi, Ahmed AlAnsari, Sultan Hatim Alnuaimi")
