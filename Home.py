@@ -6,7 +6,7 @@ from PIL import Image
 img = Image.open("Banner.png")
 
 # Title
-st.title("Cancer Research Project")
+st.title("Cancer Possibilites")
 
 st.image(img)
 
