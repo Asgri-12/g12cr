@@ -17,12 +17,10 @@ st.subheader("Colorectal")
 st.write("""Colorectal cancer is a disease in which cells in the colon or rectum grow out of control. Sometimes it is called colon cancer, for short. The colon is the large intestine or large bowel. The rectum is the passageway that connects the colon to the anus.
 
 Sometimes abnormal growths, called polyps, form in the colon or rectum. Over time, some polyps may turn into cancer. Screening tests can find polyps so they can be removed before turning into cancer. Screening also helps find colorectal cancer at an early stage, when treatment works best.""")
-st.subheader("Prostate")
-st.write("""Prostate cancer is cancer that occurs in the prostate. The prostate is a small walnut-shaped gland in males that produces the seminal fluid that nourishes and transports sperm.
+st.subheader("Lung cancer")
+st.write("""Lung cancer is cancer that forms in tissues of the lung, usually in the cells that line the air passages. It is the leading cause of cancer death in both men and women.
 
-Prostate cancer is one of the most common types of cancer. Many prostate cancers grow slowly and are confined to the prostate gland, where they may not cause serious harm. However, while some types of prostate cancer grow slowly and may need minimal or even no treatment, other types are aggressive and can spread quickly.
-
-Prostate cancer that's detected early — when it's still confined to the prostate gland — has the best chance for successful treatment.""")
+There are two main types: small cell lung cancer and non-small cell lung cancer. These two types grow differently and are treated differently. Non-small cell lung cancer is the more common type.""")
 st.subheader("Non-Hodgkins")
 st.write("""Non-Hodgkin's lymphoma is a type of cancer that begins in your lymphatic system, which is part of the body's germ-fighting immune system. In non-Hodgkin's lymphoma, white blood cells called lymphocytes grow abnormally and can form growths (tumors) throughout the body.
 
